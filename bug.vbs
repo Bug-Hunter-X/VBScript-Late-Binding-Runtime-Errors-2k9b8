@@ -1,0 +1,1 @@
+Late Binding: VBScript allows late binding, meaning you can use objects without explicitly declaring them. This can lead to runtime errors if the object or method doesn't exist.  Example:  Set obj = CreateObject("Some.Object")  If the object "Some.Object" is not registered correctly, this will fail at runtime, often with a generic error message. 
