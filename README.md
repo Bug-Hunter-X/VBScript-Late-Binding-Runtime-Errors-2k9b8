@@ -1,0 +1,1 @@
+This example demonstrates a common error in VBScript caused by late binding.  Late binding, while offering flexibility, can lead to runtime errors if the object or method referenced does not exist. The solution shows how to use error handling to gracefully manage such situations.
